@@ -9,3 +9,10 @@
 * Based on the final tumor volume box plots, the most promising of the four requested drug treatments appears to be Capomulin and Ramicane.
 * I would suggest a reevaluation of the data for the outlier on Infubinol. Was there an error in the data collection or was there potentially some other variable introduced which might cause the Infubinol treatment to be examined under new light?
 * Two other considerations that I might would explore further is the final tumor volume for each treatment per gender and then also the mortality rate per drug trial (under the assumption that the timepoints collected that were less than 45 days (the mode of the Timepoint data) would indicate the test mouse did not survive to the end of the trial).
+
+<hr>
+
+Contact:
+
+* https://www.linkedin.com/in/sharon-colson-515222210/
+* sharon.colson@gmail.com
