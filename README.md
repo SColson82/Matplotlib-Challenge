@@ -14,5 +14,5 @@
 
 Contact:
 
-* https://www.linkedin.com/in/sharon-colson-515222210/
+* https://www.linkedin.com/in/sharon-colson
 * sharon.colson@gmail.com
